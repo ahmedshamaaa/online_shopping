@@ -87,7 +87,7 @@ companies for delivering the products, some administrative activities need to be
 
 # implementation:
 **We implemented an online shopping application using EJBs with java ee and microservices and payara (or glassfish) server  and frontend angular and  we used these 4 different bean types to fulfill the above functional requirements.**
-	- Stateless
-	- Stateful
-	- Singleton
-	- Message Driven.
+- Stateless
+- Stateful
+- Singleton
+- Message Driven.
