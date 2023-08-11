@@ -1,9 +1,9 @@
-Project Idea: "E-Commerce Marketplace with Advanced Shipping and Administrative Functionality"
+# Project Idea: "E-Commerce Marketplace with Advanced Shipping and Administrative Functionality"
 
-Description:
+# Description:
 Create a comprehensive E-Commerce marketplace application that incorporates EJBs, Java EE, microservices, and Payara/GlassFish servers on the backend, and Angular for the frontend. The application will support the buying and selling of products while also integrating advanced shipping features and administrative functionalities.
 
-Key Features:
+# Key Features:
 
 1. **User Authentication and Registration:**
    - Customers, selling company representatives, and administrators can register and log in with unique credentials.
